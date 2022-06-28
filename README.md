@@ -1,6 +1,6 @@
 ### Hi there I am Yigit 👋
 
-- 🌱 I’m currently learning Javascript, React
+- 🌱 I’m Frontend React Developer
 - 📫 How to reach me:  <a href="https://www.linkedin.com/in/yi%C4%9Fit-yavuz-ceylan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
 
